@@ -1,0 +1,52 @@
+* {
+	box-sizing: border-box;
+	outline: none;
+}
+
+header{
+
+}
+body {
+
+    width: 100%;
+    display: flex;
+    justify-content:center;
+    align-items: center;
+    flex-direction: column;
+    padding: 2em;
+    height: 100vh;
+    color: #FAF3E0;
+}
+
+a{
+
+}
+
+a:hover{
+
+}
+h1{
+  margin: 0 auto;
+  color: #1E212D;
+
+}
+
+h2{
+    margin: 0 auto;
+}
+
+h3{
+  margin: 0 auto;
+}
+
+p{
+font-family: Cabin, sans-serif;
+}
+img{
+max-width: 100%;
+}
+
+a{
+  text-decoration: none;
+
+}
