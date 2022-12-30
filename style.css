@@ -17,7 +17,7 @@ text-transform: uppercase;
 }
 nav{
   /* width: 100%; */
-  background-color: #1E212D;
+  background-color: #4B6587;
 }
 .navMenu {
 color: #FAF3E0;
@@ -43,8 +43,9 @@ body {
     flex-direction: column;
     padding: 2em;
     height: 100vh;
-    color: #FAF3E0; */
-    background-color: #EABF9F;
+    color: #1E212D; */
+    background-color: #F7F6F2;
+    text-align: center;
 }
 
 a{
@@ -63,15 +64,23 @@ a{
 h1{
   /* margin: 0 auto; */
   color: #1E212D;
+  /* font-size: 2em; */
+  text-transform: uppercase;
+  font-weight: 500;
 
 }
 
 h2{
     /* margin: 0 auto; */
+    font-size: 1em;
+    text-transform: uppercase;
+    font-weight: 500;
 }
 
 h3{
-  margin: 0 auto;
+  font-size: 1em;
+  text-transform: uppercase;
+  font-weight: 500;
 }
 
 p{
@@ -94,5 +103,7 @@ ul{
 footer {
   background-color: #1E212D;
   position: relative;
-
+  font-size: 1em;
+  text-transform: uppercase;
+  font-weight: 500;
 }
