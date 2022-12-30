@@ -10,10 +10,11 @@ header{
 font-family: "Montserrat", sans-serif;
 margin-top: 0;
 width:100%;
-background-color: #FAF3E0;
+background-color: #F7F6F2;
 letter-spacing: .3em;
 text-align: center;
 text-transform: uppercase;
+
 }
 nav{
   /* width: 100%; */
@@ -48,6 +49,13 @@ body {
     text-align: center;
 }
 
+.picHome{
+
+backdrop-filter:blur(2px);
+font-size: 6em;
+text-align: center;
+color: #f6f4e6;
+}
 a{
   font-family: "Montserrat", sans-serif;
   color: #f6f4e6;
