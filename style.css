@@ -49,13 +49,40 @@ body {
     background-color: #F7F6F2;
     text-align: center;
 }
+.topImg1{
+	position: relative;
+	text-align: center;
+
+}
+
 
 .picHome{
 
-backdrop-filter:blur(2px);
 font-size: 6em;
-text-align: center;
 color: #f6f4e6;
+}
+.header1{
+position: absolute;
+	top: 10%;
+
+ left: 30%;
+ backdrop-filter:blur(4px);
+ color: #1E212D;
+font-weight: 500;
+}
+
+.weAre{
+	font-weight: 500;
+	font-size: 3.5em;
+}
+.h31stPic{
+	position: absolute;
+	 bottom: 5%;
+	 right: 10%;
+	 backdrop-filter:blur(2px);
+	 color: #1E212D;
+	font-weight: 500;
+	font-size: 1.5em;
 }
 a{
   font-family: "Montserrat", sans-serif;
@@ -99,6 +126,8 @@ img{
 max-width: 100%;
 }
 
+
+
 a{
   text-decoration: none;
 
@@ -111,6 +140,7 @@ ul{
 }
 footer {
 	padding-top: 1em;
+	padding-bottom: 1em;
   background-color: #1E212D;
   position: relative;
   font-size: 1em;
@@ -118,6 +148,11 @@ footer {
   font-weight: 500;
 }
 
+
+/* footer css below this line */
 .footer-link1{
 	height: 2em;
+}
+.copyright{
+	color: #f6f4e6;
 }
